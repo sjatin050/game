@@ -1,0 +1,68 @@
+body{
+	background-image: url(https://images.unsplash.com/photo-1499346030926-9a72daac6c63?ixlib=rb-1.2.1&w=1000&q=80);
+	background-repeat:no-repeat; 
+	background-position: left-bottom;  
+	background-size: 100% 100%;
+} 
+h1{ 
+width:100%;
+color: white;
+font-family: Lato;
+font-size: 50px;
+text-align: center;
+text-shadow: 5px 5px grey; 
+}
+
+
+h2{ 
+font-size: 25px;
+color: white;
+text-align: center;
+margin-top: 80px;
+font-family: Lato; 
+text-shadow: 3px 4px grey;
+ }
+table{ 
+	
+	font-family: Lato; 
+	border-collapse: collapse;
+	width:60%;
+	text-align: center;
+	margin-top: 80px; 
+	text-shadow: 1px 1px grey;
+}
+th{
+	font-size: 30px; 
+	text-align: left;
+	padding: 8px; 
+	background-color: #6BBE30;
+
+}
+td{
+	font-size: 20px;
+	text-align: left;
+	padding: 8px;
+}
+tr:nth-child(odd){
+	background-color:#6BBE30;
+}ss
+tr:nth-child(even){
+	background-color:#CAE8F2;
+} 
+.container{   
+	color: white;
+	background: url(https://wallpaperboat.com/wp-content/uploads/2019/10/royalty-free-background-image-15.jpg); 
+	
+	text-align: center; 
+
+}
+.footer{
+	position:fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background:url(https://wallpaperboat.com/wp-content/uploads/2019/10/royalty-free-background-image-15.jpg);
+	color: white;
+	text-align: center;
+
+}
